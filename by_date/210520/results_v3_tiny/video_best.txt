@@ -1,0 +1,717 @@
+video file: data/green_test2.mp4
+Video stream: 854 x 480 
+Objects:
+
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:21.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 34% 
+
+FPS:27.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:33.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:45.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 26% 
+
+FPS:59.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:72.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:84.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:95.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:105.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:114.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:123.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:131.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:137.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 26% 
+
+FPS:141.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:146.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 43% 
+
+FPS:144.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:150.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:153.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:156.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:158.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 27% 
+
+FPS:160.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:162.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:160.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:162.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:146.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:142.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:142.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:143.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 42% 
+
+FPS:145.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:145.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:146.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:148.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 40% 
+
+FPS:148.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:148.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:150.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:143.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:145.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:144.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:144.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:144.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:142.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:136.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:136.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:137.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:138.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:138.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:140.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:143.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:144.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:145.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:145.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:145.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:145.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:143.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:140.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:136.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:139.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:141.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:143.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:144.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:148.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:149.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:151.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:150.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:152.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:154.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:156.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:159.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:160.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:160.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:158.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:163.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:164.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:164.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:165.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:160.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:155.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:157.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:158.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:160.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:159.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:160.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:162.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:165.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:166.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:166.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:168.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:167.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:165.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:162.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:159.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:158.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:156.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:154.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:153.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:153.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:153.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:151.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:151.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:151.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:148.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:146.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:148.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:147.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:146.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:149.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:151.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:153.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:154.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:157.1 	 AVG_FPS:0.0
+Stream closed.
+
+ cvWriteFrame 
+input video stream closed. 
