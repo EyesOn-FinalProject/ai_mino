@@ -1,0 +1,845 @@
+video file: data/green_test2.mp4
+Video stream: 854 x 480 
+Objects:
+
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+door_open: 58% 
+
+FPS:22.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 40% 
+
+FPS:30.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 62% 
+
+FPS:35.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 90% 
+
+FPS:47.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 54% 
+
+FPS:57.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 47% 
+
+FPS:67.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 69% 
+
+FPS:77.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:86.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 44% 
+
+FPS:94.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 28% 
+
+FPS:102.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 39% 
+
+FPS:109.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 79% 
+
+FPS:116.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 82% 
+
+FPS:120.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 87% 
+
+FPS:124.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 74% 
+
+FPS:128.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 62% 
+
+FPS:131.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 62% 
+
+FPS:133.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 73% 
+
+FPS:135.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 76% 
+
+FPS:137.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 49% 
+license_plate: 28% 
+
+FPS:139.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 50% 
+license_plate: 28% 
+
+FPS:135.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 54% 
+license_plate: 74% 
+
+FPS:136.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 37% 
+license_plate: 56% 
+
+FPS:135.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 41% 
+
+FPS:136.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 43% 
+license_plate: 46% 
+
+FPS:138.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 37% 
+license_plate: 49% 
+
+FPS:140.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 74% , bus_num_side: 25% 
+door_open: 45% 
+
+FPS:141.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 34% 
+license_plate: 58% 
+
+FPS:141.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 51% , bus_num_side: 30% 
+door_open: 48% 
+
+FPS:139.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 61% 
+
+FPS:140.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 52% 
+license_plate: 31% 
+
+FPS:141.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:142.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 76% 
+
+FPS:143.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 76% 
+
+FPS:143.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 81% 
+
+FPS:141.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 30% 
+license_plate: 73% 
+
+FPS:142.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 43% 
+
+FPS:142.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 72% , bus_num_side: 27% 
+
+FPS:144.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 31% 
+license_plate: 90% 
+
+FPS:145.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 62% 
+license_plate: 87% 
+
+FPS:144.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 39% 
+license_plate: 91% 
+
+FPS:145.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 87% 
+
+FPS:146.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 26% 
+license_plate: 98% 
+
+FPS:146.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 97% 
+
+FPS:147.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 89% 
+
+FPS:147.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:148.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 40% 
+
+FPS:147.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door: 29% , door_open: 36% 
+license_plate: 97% 
+
+FPS:147.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 42% 
+license_plate: 98% 
+
+FPS:146.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 97% 
+
+FPS:145.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 65% 
+
+FPS:146.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:146.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 36% 
+license_plate: 98% 
+
+FPS:147.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 59% 
+license_plate: 96% 
+
+FPS:147.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 79% 
+license_plate: 98% 
+
+FPS:147.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:145.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 97% 
+
+FPS:145.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 98% 
+
+FPS:142.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 89% 
+
+FPS:143.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 90% 
+
+FPS:143.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 71% 
+
+FPS:143.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 93% 
+
+FPS:146.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 93% 
+
+FPS:146.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 96% 
+
+FPS:142.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 94% 
+
+FPS:138.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 100% 
+
+FPS:136.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 100% 
+
+FPS:136.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 100% 
+
+FPS:136.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 100% 
+
+FPS:135.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:135.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:135.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:135.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:136.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:138.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:139.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:137.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:136.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 96% 
+
+FPS:135.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 97% 
+
+FPS:133.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 89% 
+
+FPS:134.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 64% 
+
+FPS:136.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 75% 
+
+FPS:134.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 90% 
+
+FPS:133.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 95% 
+
+FPS:134.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 97% 
+
+FPS:139.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 98% 
+
+FPS:136.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:136.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 83% 
+
+FPS:136.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 97% 
+
+FPS:136.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 39% 
+license_plate: 98% 
+
+FPS:136.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 84% 
+
+FPS:135.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 96% 
+
+FPS:133.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 27% 
+license_plate: 97% 
+
+FPS:132.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 55% 
+license_plate: 99% 
+
+FPS:132.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 98% 
+
+FPS:130.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 96% 
+
+FPS:129.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:130.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 97% 
+
+FPS:129.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 93% 
+
+FPS:129.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 95% 
+
+FPS:129.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 98% 
+
+FPS:130.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 99% 
+
+FPS:130.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 98% 
+
+FPS:131.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 65% 
+
+FPS:123.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 92% 
+
+FPS:121.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 82% 
+
+FPS:122.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 86% 
+
+FPS:123.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 86% 
+
+FPS:121.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 84% 
+
+FPS:121.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 84% 
+bus_num_fr: 26% 
+
+FPS:122.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 56% 
+
+FPS:123.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 80% 
+
+FPS:121.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 49% 
+
+FPS:122.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+license_plate: 35% 
+
+FPS:123.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:125.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:125.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:125.8 	 AVG_FPS:0.0
+Stream closed.
+
+ cvWriteFrame 
+input video stream closed. 

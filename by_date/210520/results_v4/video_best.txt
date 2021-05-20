@@ -1,0 +1,918 @@
+video file: data/green_test2.mp4
+Video stream: 854 x 480 
+Objects:
+
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+bus_num_side: 71% 
+
+FPS:4.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 37% 
+door_open: 38% 
+
+FPS:8.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 72% 
+
+FPS:12.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 41% 
+
+FPS:16.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 79% 
+
+FPS:19.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 43% 
+door_open: 97% 
+
+FPS:22.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 47% 
+door_open: 45% 
+
+FPS:25.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 81% 
+
+FPS:27.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 61% 
+
+FPS:30.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 78% 
+door_open: 94% 
+
+FPS:32.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 55% 
+
+FPS:34.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 37% 
+door_open: 39% 
+
+FPS:35.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 52% 
+
+FPS:37.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 31% 
+door_open: 68% 
+
+FPS:38.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 89% 
+
+FPS:40.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 95% 
+
+FPS:41.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 98% 
+
+FPS:42.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 92% 
+
+FPS:42.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 98% 
+
+FPS:43.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 66% 
+door_open: 98% 
+
+FPS:44.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 90% 
+door: 30% 
+
+FPS:45.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 99% 
+
+FPS:45.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 98% 
+
+FPS:46.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 88% 
+door_open: 95% 
+
+FPS:46.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 61% 
+door_open: 98% 
+
+FPS:47.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 54% 
+door_open: 96% 
+
+FPS:47.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+door_open: 97% 
+
+FPS:48.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 98% 
+door_open: 97% 
+
+FPS:48.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 97% 
+door_open: 98% 
+
+FPS:48.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 96% 
+door_open: 98% 
+
+FPS:48.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 74% 
+door_open: 99% 
+
+FPS:49.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 89% 
+door_open: 99% 
+
+FPS:49.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 97% 
+
+FPS:49.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 73% 
+door_open: 97% 
+
+FPS:49.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 73% 
+door_open: 98% 
+
+FPS:49.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 80% 
+door_open: 97% 
+
+FPS:50.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 94% 
+door_open: 96% 
+
+FPS:50.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 28% 
+door_open: 98% 
+
+FPS:50.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 80% 
+door_open: 99% 
+
+FPS:50.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 99% 
+door_open: 99% 
+
+FPS:50.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 75% 
+door_open: 98% 
+
+FPS:50.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 96% 
+door_open: 99% 
+
+FPS:50.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 80% 
+door_open: 99% 
+
+FPS:50.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 87% 
+door_open: 99% 
+
+FPS:50.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 91% 
+door_open: 98% 
+
+FPS:51.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 88% 
+door_open: 98% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+door_open: 91% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 72% 
+door_open: 99% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 91% 
+door_open: 98% 
+door: 29% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 49% 
+door_open: 98% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 87% 
+door_open: 95% 
+
+FPS:51.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 72% 
+door_open: 98% 
+door_open: 26% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 94% 
+door_open: 91% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 76% 
+door_open: 91% 
+door: 34% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+door_open: 94% 
+door: 31% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 73% 
+bus_num_side: 47% 
+door_open: 96% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 85% 
+door_open: 79% 
+door: 29% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 92% 
+door_open: 48% 
+door: 83% 
+
+FPS:51.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+door_open: 69% 
+door_open: 32% 
+door: 87% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 97% 
+door_open: 86% 
+door_open: 36% 
+door: 60% 
+
+FPS:51.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 94% 
+door_open: 97% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 68% 
+door_open: 97% 
+door_open: 25% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 96% 
+door_open: 97% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 96% 
+door_open: 96% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 95% 
+door_open: 97% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 96% 
+door_open: 95% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 85% 
+door_open: 92% 
+door: 33% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 90% 
+door_open: 98% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 65% 
+door_open: 98% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 80% 
+door_open: 82% 
+door: 36% 
+license_plate: 51% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 85% 
+door_open: 91% 
+license_plate: 25% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 68% 
+door_open: 84% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 78% 
+door_open: 89% 
+door: 28% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 88% 
+door_open: 94% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+door_open: 94% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 92% 
+door_open: 67% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 95% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 97% 
+door_open: 53% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 95% 
+door_open: 69% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 94% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 87% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+license_plate: 28% 
+
+FPS:51.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 95% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 63% 
+license_plate: 51% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 86% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 87% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 92% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 82% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 98% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 28% 
+door_open: 41% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 94% 
+
+FPS:51.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 95% 
+door_open: 51% 
+
+FPS:51.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 85% 
+bus_num_side: 79% 
+door_open: 50% 
+
+FPS:51.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 97% 
+
+FPS:51.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 91% 
+door_open: 82% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 96% 
+door_open: 82% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 97% 
+door_open: 59% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 85% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 95% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+door_open: 40% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 90% 
+bus_num_side: 80% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 94% 
+bus_num_side: 41% 
+door_open: 43% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 88% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 94% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 92% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 88% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 40% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 93% 
+
+FPS:51.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 50% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 57% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 81% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 64% 
+
+FPS:51.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 66% 
+
+FPS:51.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 92% 
+
+FPS:51.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+bus_num_side: 91% 
+
+FPS:51.5 	 AVG_FPS:0.0
+Stream closed.
+
+ cvWriteFrame 
+input video stream closed. 
